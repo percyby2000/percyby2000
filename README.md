@@ -241,7 +241,3 @@ If you have any questions about web development, writing mistake-free documentat
 <a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
 </div>
 
-------
-Credit: [10Kartik](https://github.com/10Kartik)
-
-Last Edited on: 18/01/2024
