@@ -32,23 +32,7 @@
 
 ```js
 /**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Kartik.
+"Soy un estudiante de programación con experiencia en los lenguajes JavaScript, Java y C#. Además, tengo conocimientos en diseño gráfico, lo que me permite desarrollar páginas web robustas y visualmente atractivas. Algunas de estas páginas ya están en uso por empresas, aportando soluciones tecnológicas funcionales y de calidad."
  */
 ```
 
@@ -61,7 +45,7 @@
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
-      <kbd>Programming Languages</kbd>
+      <kbd>Lenguajes de programación</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
