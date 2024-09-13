@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>Perfil de Percy</title>
   <style>
     body {
@@ -104,8 +100,6 @@
         </div>
       </div>
     </section>
-
-    <!-- Sección de habilidades -->
     <section class="section">
       <h2>Lenguajes y Habilidades</h2>
       <div class="skills">
