@@ -1,16 +1,16 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy PERCY COMDE NUÑEZ 👋
 
 ## Sobre mí
-Soy un desarrollador apasionado por [tus intereses]. Me encanta crear soluciones innovadoras y aprender nuevas tecnologías.
+Soy un desarrollador apasionado por la programacion y diseño. Me encanta crear soluciones innovadoras y aprender nuevas tecnologías.
 
 ## Mis Proyectos
-### [Nombre del Proyecto 1]
-![Proyecto 1](https://via.placeholder.com/300x150)
-Breve descripción del proyecto 1.
+### HDM
+![Pagina web de hijo de pastores ayacucho](https://hijosdeministros.vercel.app/)
+La pagina web contiene informacion de la institucion que es similar a una ONG la cual se agrogo la api de whatsap , api de spotify , youtube, From App.
 
-### [Nombre del Proyecto 2]
-![Proyecto 2](https://via.placeholder.com/300x150)
-Breve descripción del proyecto 2.
+### [MISIÓN 70 ]
+![Proyecto 2](https://campamento-mision70.vercel.app/)
+Pagina web de un campamento que el diseño se hizo similar  ala velada del año3 .
 
 ## Lenguajes y Herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -24,8 +24,8 @@ Breve descripción del proyecto 2.
 - Bitbucket
 
 ## Contacto
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](tu-perfil-de-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](tu-perfil-de-twitter)
+[![LinkedIn](https://www.linkedin.com/in/enders-cn2000/)](tu-perfil-de-linkedin)
+[![Facebook](https://www.facebook.com/percy.condenunez.7)
 
 ---
-⭐️ From [tu-usuario-de-github](https://github.com/tu-usuario-de-github)
+⭐️ From [Percy Con D (percyby2000)](https://github.com/percyby2000)
