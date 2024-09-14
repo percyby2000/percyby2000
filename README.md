@@ -1,47 +1,51 @@
-# 🦁 ¡Bienvenidos a la selva digital de PERCY COMDE NUÑEZ! 🌴
+<img src="https://via.placeholder.com/1000x300?text=PERCY+COMDE+NUÑEZ" alt="Banner" style="width: 100%;">
 
-![Banner](https://via.placeholder.com/800x200?text=Selva+Digital+de+Percy)
+# 🏙️ PERCY COMDE NUÑEZ | デベロッパー
 
-## 🦜 Sobre este explorador del código
+> "Codificando el futuro, un commit a la vez" 💻✨
 
-Soy un desarrollador que camina por la jungla de la programación y el diseño. Como un camaleón, me adapto a nuevas tecnologías y creo soluciones tan únicas como las huellas de un jaguar.
+## 🎭 Sobre mí
 
-## 🐒 Proyectos en mi árbol de código
+Soy un desarrollador que navega por el ciberespacio urbano, creando soluciones tan innovadoras como los neones de Akihabara. Mi pasión por la programación y el diseño me impulsa a superar límites y crear experiencias digitales únicas.
 
-### 🌺 HDM - Hijos de Ministros Ayacucho
-![HDM](https://via.placeholder.com/400x200?text=HDM+Website)
-Una flor digital que florece con:
-- 🍃 API de WhatsApp
+## 🚀 Mis Proyectos
+
+### HDM - Hijos de Ministros Ayacucho
+<img src="https://via.placeholder.com/500x250?text=HDM+Project" alt="HDM Project" style="width: 100%;">
+
+Un portal digital que fusiona:
+- 💬 API de WhatsApp
 - 🎵 API de Spotify
-- 📺 YouTube
-- 🦋 From App
+- 🎥 YouTube
+- 📱 From App
 
-[🌐 Visita el sitio](https://hijosdeministros.vercel.app/)
+[🔗 Explora HDM](https://hijosdeministros.vercel.app/)
 
-### 🏕️ MISIÓN 70 - Campamento Salvaje
-![Misión 70](https://via.placeholder.com/400x200?text=Mision+70+Website)
-Un oasis digital inspirado en la Velada del Año 3, donde los aventureros digitales se reúnen.
+### MISIÓN 70 - Evento Epic
+<img src="https://via.placeholder.com/500x250?text=MISION+70+Project" alt="MISION 70 Project" style="width: 100%;">
 
-[🌐 Adéntrate en la aventura](https://campamento-mision70.vercel.app/)
+Una experiencia digital inspirada en la Velada del Año 3, donde la realidad y el ciberespacio se encuentran.
 
-## 🦉 Lenguajes del bosque tecnológico
+[🔗 Únete a la misión](https://campamento-mision70.vercel.app/)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+## 🛠️ Arsenal Tecnológico
 
-## 🐘 Territorios de desarrollo
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 
-- 🦅 GitHub
-- 🦊 GitLab
-- 🐬 Bitbucket
+## 🌐 Territorios Digitales
 
-## 🦜 Llámame con el sonido de la selva
+- GitHub | ギットハブ
+- GitLab | ギットラブ
+- Bitbucket | ビットバケット
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enders-cn2000/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/percy.condenunez.7)
+## 📡 Conecta conmigo
+
+<a href="https://www.linkedin.com/in/enders-cn2000/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.facebook.com/percy.condenunez.7"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ---
 
-🌟 Creado por [Percy Con D (percyby2000)](https://github.com/percyby2000) - Guardián de la selva del código
+<p align="center">
+  <img src="https://via.placeholder.com/150x150?text=Anime+Avatar" alt="Anime Avatar" style="border-radius:50%;">
+  <br>
+  <em>Creado por <a href="https://github.com/percyby2000">Percy Con D (percyby2000)</a> - Arquitecto del Ciberespacio</em>
+</p>
