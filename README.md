@@ -5,7 +5,8 @@ Soy un desarrollador apasionado por la programacion y diseño. Me encanta crear 
 
 ## Mis Proyectos
 ### HDM
-![Pagina web de hijo de pastores ayacucho](![image](https://github.com/user-attachments/assets/2dc5af86-23c7-452f-a32e-b64638620c40)
+![Pagina web de hijo de pastores ayacucho](![image](https://github.com/user-attachments/assets/57ddca3f-c949-40c3-a5fc-c6299c1d4e07)
+)
 )
 La pagina web contiene informacion de la institucion que es similar a una ONG la cual se agrogo la api de whatsap , api de spotify , youtube, From App.
 
