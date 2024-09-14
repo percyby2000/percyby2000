@@ -1,51 +1,58 @@
-<img src="https://via.placeholder.com/1000x300?text=PERCY+COMDE+NUÑEZ" alt="Banner" style="width: 100%;">
+<img src="https://via.placeholder.com/1000x300?text=PERCY+COMDE+NUÑEZ:+Explorador+del+Código+Cósmico" alt="Banner Espacial" style="width: 100%;">
 
-# 🏙️ PERCY COMDE NUÑEZ | デベロッパー
+# 🚀 PERCY COMDE NUÑEZ | Explorador del Código Cósmico
 
-> "Codificando el futuro, un commit a la vez" 💻✨
+> "Navegando por el vasto universo digital, un commit a la vez" 🌌💻
 
-## 🎭 Sobre mí
+## 🛰️ Transmisión desde la Estación Espacial del Desarrollador
 
-Soy un desarrollador que navega por el ciberespacio urbano, creando soluciones tan innovadoras como los neones de Akihabara. Mi pasión por la programación y el diseño me impulsa a superar límites y crear experiencias digitales únicas.
+Saludos, terrícolas del código. Soy Percy, un desarrollador que orbita en los confines del espacio digital, creando soluciones tan brillantes como las estrellas y tan vastas como las galaxias. Mi misión: explorar nuevas fronteras en programación y diseño, llevando la innovación hasta los límites del universo conocido.
 
-## 🚀 Mis Proyectos
+## 🌠 Constelaciones de Proyectos
 
 ### HDM - Hijos de Ministros Ayacucho
-<img src="https://via.placeholder.com/500x250?text=HDM+Project" alt="HDM Project" style="width: 100%;">
+<img src="https://via.placeholder.com/500x250?text=Nebulosa+HDM" alt="Proyecto HDM" style="width: 100%;">
 
-Un portal digital que fusiona:
-- 💬 API de WhatsApp
-- 🎵 API de Spotify
-- 🎥 YouTube
-- 📱 From App
+Una nebulosa digital que brilla con:
+- 💬 Señales de WhatsApp
+- 🎵 Ondas sonoras de Spotify
+- 🎥 Transmisiones de YouTube
+- 📱 Comunicaciones From App
 
-[🔗 Explora HDM](https://hijosdeministros.vercel.app/)
+[🔗 Viaja a HDM](https://hijosdeministros.vercel.app/)
 
-### MISIÓN 70 - Evento Epic
-<img src="https://via.placeholder.com/500x250?text=MISION+70+Project" alt="MISION 70 Project" style="width: 100%;">
+### MISIÓN 70 - Evento Interestelar
+<img src="https://via.placeholder.com/500x250?text=Galaxia+MISION+70" alt="Proyecto MISION 70" style="width: 100%;">
 
-Una experiencia digital inspirada en la Velada del Año 3, donde la realidad y el ciberespacio se encuentran.
+Un evento cósmico inspirado en la Velada del Año 3, donde las dimensiones digitales y físicas convergen en un espectáculo estelar.
 
-[🔗 Únete a la misión](https://campamento-mision70.vercel.app/)
+[🔗 Embárcate en la misión](https://campamento-mision70.vercel.app/)
 
-## 🛠️ Arsenal Tecnológico
+## 🛸 Tecnologías Interestelares
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-React-00FFFF?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/-Node.js-006400?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 
-## 🌐 Territorios Digitales
+## 🌍 Bases Estelares
 
-- GitHub | ギットハブ
-- GitLab | ギットラブ
-- Bitbucket | ビットバケット
+- GitHub | Base Alfa
+- GitLab | Estación Beta
+- Bitbucket | Colonia Gamma
 
-## 📡 Conecta conmigo
+## 📡 Contacto Intergaláctico
 
-<a href="https://www.linkedin.com/in/enders-cn2000/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.facebook.com/percy.condenunez.7"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/enders-cn2000/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.facebook.com/percy.condenunez.7"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/150x150?text=Anime+Avatar" alt="Anime Avatar" style="border-radius:50%;">
+  <img src="https://via.placeholder.com/150x150?text=Avatar+Espacial" alt="Avatar Espacial" style="border-radius:50%;">
   <br>
-  <em>Creado por <a href="https://github.com/percyby2000">Percy Con D (percyby2000)</a> - Arquitecto del Ciberespacio</em>
+  <em>Transmitido por <a href="https://github.com/percyby2000">Percy Con D (percyby2000)</a> - Comandante de la Flota de Código</em>
 </p>
+
+```ascii
+       .  　　　　　　   ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
+ 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
+.　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　　　.　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　       　   　　　　 　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　       　    ✦ 　   　　　,　　　　　　　　　　　    🚀 　　　　 　　,　　　 ‍ ‍ ‍ ‍ 　 　　　　　　　　　　　　.　　　　　 　　 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　　　　　.　　　  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　* 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　　　　　　 　　　　　.　　　　　　　　　　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　　　 🌑 　　　　　   　　　　　.　　　　　　　　　　　.　　　　　　　　　　   　
+˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
+```
