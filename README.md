@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/1000x300?text=PERCY+COMDE+NUÑEZ:+Explorador+del+Código+Cósmico" alt="Banner Espacial" style="width: 100%;">
+<img src="1.jpg:/" alt="Banner Espacial" style="width: 100%;">
 
 # 🚀 PERCY COMDE NUÑEZ | Explorador del Código Cósmico
 
