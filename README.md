@@ -1,4 +1,4 @@
-<img src="1.jpg:/" alt="Banner Espacial" style="width: 100%;">
+<img src="https://www.google.com/imgres?q=amazing%20galaxia&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffotos-premium%2Famazing-nd-calssy-galaxy-images-galacia-papel-pared-espacio-papel-parede-hecho-arte-digital-ia-galaxia_744422-13256.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.es%2Ffotos-premium%2Famazing-nd-calssy-galaxy-images-galacia-papel-pared-espacio-papel-parede-hecho-arte-digital-ia-galaxia_167885471.htm&docid=1RYnTcndz2316M&tbnid=ASjT2CAMwfoyBM&vet=12ahUKEwj9waLPvNqIAxUpLbkGHVrAF34QM3oECGkQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwj9waLPvNqIAxUpLbkGHVrAF34QM3oECGkQAA" alt="Banner Espacial" style="width: 100%;">
 
 # 🚀 PERCY COMDE NUÑEZ | Explorador del Código Cósmico
 
