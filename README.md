@@ -1,17 +1,29 @@
-# 🚀 PERCY COMDE NUÑEZ | Explorador del Código Cósmico
+<h1 align="center">
+  <img src="https://via.placeholder.com/800x200/0a0a2a/00ffff?text=🚀+PERCY+COMDE+NUÑEZ" alt="Percy Comde Nuñez">
+</h1>
 
-![Banner Espacial](https://via.placeholder.com/800x300?text=Explorador+del+C%C3%B3digo+C%C3%B3smico)
+<p align="center">
+  <strong>🌌 Explorador del Código Cósmico 🌌</strong>
+</p>
 
-> "Navegando por el vasto universo digital, un commit a la vez" 🌌💻
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/0a0a2a/00ffff?text=Navegando+por+el+vasto+universo+digital,+un+commit+a+la+vez" alt="Banner">
+</p>
 
-## 🛰️ Transmisión desde la Estación Espacial del Desarrollador
+## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="🛰️"> Transmisión desde la Estación Espacial del Desarrollador
 
-Saludos, terrícolas del código. Soy Percy, un desarrollador que orbita en los confines del espacio digital, creando soluciones tan brillantes como las estrellas y tan vastas como las galaxias. Mi misión: explorar nuevas fronteras en programación y diseño, llevando la innovación hasta los límites del universo conocido.
+<p align="center">
+  <img src="https://via.placeholder.com/600x100/0a0a2a/00ffff?text=Saludos,+terrícolas+del+código" alt="Saludo">
+</p>
 
-## 🌠 Constelaciones de Proyectos
+Soy Percy, un desarrollador que orbita en los confines del espacio digital, creando soluciones tan brillantes como las estrellas y tan vastas como las galaxias. Mi misión: explorar nuevas fronteras en programación y diseño, llevando la innovación hasta los límites del universo conocido.
+
+## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="🌠"> Constelaciones de Proyectos
 
 ### HDM - Hijos de Ministros Ayacucho
-![Proyecto HDM](https://via.placeholder.com/500x250?text=Nebulosa+HDM)
+<p align="center">
+  <img src="https://via.placeholder.com/500x250/0a0a2a/00ffff?text=Nebulosa+HDM" alt="Proyecto HDM">
+</p>
 
 Una nebulosa digital que brilla con:
 - 💬 Señales de WhatsApp
@@ -19,49 +31,59 @@ Una nebulosa digital que brilla con:
 - 🎥 Transmisiones de YouTube
 - 📱 Comunicaciones From App
 
-[🔗 Viaja a HDM](https://hijosdeministros.vercel.app/)
+<p align="center">
+  <a href="https://hijosdeministros.vercel.app/">
+    <img src="https://via.placeholder.com/200x50/00ffff/0a0a2a?text=Viaja+a+HDM" alt="Viaja a HDM">
+  </a>
+</p>
 
 ### MISIÓN 70 - Evento Interestelar
-![Proyecto MISION 70](https://via.placeholder.com/500x250?text=Galaxia+MISION+70)
+<p align="center">
+  <img src="https://via.placeholder.com/500x250/0a0a2a/00ffff?text=Galaxia+MISION+70" alt="Proyecto MISION 70">
+</p>
 
 Un evento cósmico inspirado en la Velada del Año 3, donde las dimensiones digitales y físicas convergen en un espectáculo estelar.
 
-[🔗 Embárcate en la misión](https://campamento-mision70.vercel.app/)
+<p align="center">
+  <a href="https://campamento-mision70.vercel.app/">
+    <img src="https://via.placeholder.com/200x50/00ffff/0a0a2a?text=Embárcate+en+la+misión" alt="Embárcate en la misión">
+  </a>
+</p>
 
-## 🛸 Tecnologías Interestelares
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-## 🌍 Bases Estelares
-
-- GitHub | Base Alfa
-- GitLab | Estación Beta
-- Bitbucket | Colonia Gamma
-
-## 📡 Contacto Intergaláctico
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/enders-cn2000/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/percy.condenunez.7)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:percy@cosmiccoder.com)
-
----
+## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="🛸"> Tecnologías Interestelares
 
 <p align="center">
-  <img src="https://via.placeholder.com/150x150?text=Avatar+Espacial" alt="Avatar Espacial" style="border-radius:50%;">
+  <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-React-00FFFF?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-006400?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
+
+## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="🌍"> Bases Estelares
+
+<p align="center">
+  <img src="https://via.placeholder.com/200x50/0a0a2a/00ffff?text=GitHub+|+Base+Alfa" alt="GitHub">
+  <img src="https://via.placeholder.com/200x50/0a0a2a/00ffff?text=GitLab+|+Estación+Beta" alt="GitLab">
+  <img src="https://via.placeholder.com/200x50/0a0a2a/00ffff?text=Bitbucket+|+Colonia+Gamma" alt="Bitbucket">
+</p>
+
+## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="📡"> Contacto Intergaláctico
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/enders-cn2000/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/percy.condenunez.7">
+    <img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/150x150/00ffff/0a0a2a?text=Avatar+Espacial" alt="Avatar Espacial" style="border-radius:50%;">
   <br>
   <em>Transmitido por <a href="https://github.com/percyby2000">Percy Con D (percyby2000)</a> - Comandante de la Flota de Código</em>
 </p>
 
-```
-       .  　　　　　　   ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
- 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
-.　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　　　.　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　       　   　　　　 　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　       　    ✦ 　   　　　,　　　　　　　　　　　    🚀 　　　　 　　,　　　 ‍ ‍ ‍ ‍ 　 　　　　　　　　　　　　.　　　　　 　　 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　　　　　.　　　  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　* 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　　　　　　 　　　　　.　　　　　　　　　　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　　　 🌑 　　　　　   　　　　　.　　　　　　　　　　　.　　　　　　　　　　   　
-˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
-```
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/0a0a2a/00ffff?text=Explorando+el+cosmos+digital+|+Innovando+en+cada+commit" alt="Footer">
+</p>
