@@ -1,89 +1,92 @@
-<h1 align="center">
-  <img src="https://via.placeholder.com/800x200/0a0a2a/00ffff?text=🚀+PERCY+COMDE+NUÑEZ" alt="Percy Comde Nuñez">
-</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:8A2BE2&height=200&section=header&text=Percy%20Comde%20Nuñez&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Explorador%20del%20Código%20Cósmico&descAlignY=50">
+</div>
 
 <p align="center">
-  <strong>🌌 Explorador del Código Cósmico 🌌</strong>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/0a0a2a/00ffff?text=Navegando+por+el+vasto+universo+digital,+un+commit+a+la+vez" alt="Banner">
-</p>
-
-## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="🛰️"> Transmisión desde la Estación Espacial del Desarrollador
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x100/0a0a2a/00ffff?text=Saludos,+terrícolas+del+código" alt="Saludo">
-</p>
-
-Soy Percy, un desarrollador que orbita en los confines del espacio digital, creando soluciones tan brillantes como las estrellas y tan vastas como las galaxias. Mi misión: explorar nuevas fronteras en programación y diseño, llevando la innovación hasta los límites del universo conocido.
-
-## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="🌠"> Constelaciones de Proyectos
-
-### HDM - Hijos de Ministros Ayacucho
-<p align="center">
-  <img src="https://via.placeholder.com/500x250/0a0a2a/00ffff?text=Nebulosa+HDM" alt="Proyecto HDM">
-</p>
-
-Una nebulosa digital que brilla con:
-- 💬 Señales de WhatsApp
-- 🎵 Ondas sonoras de Spotify
-- 🎥 Transmisiones de YouTube
-- 📱 Comunicaciones From App
-
-<p align="center">
-  <a href="https://hijosdeministros.vercel.app/">
-    <img src="https://via.placeholder.com/200x50/00ffff/0a0a2a?text=Viaja+a+HDM" alt="Viaja a HDM">
+  <a href="https://github.com/percyby2000">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Innovador+Digital;Pionero+del+C%C3%B3digo+Espacial;Explorador+de+Nuevas+Tecnolog%C3%ADas" alt="Typing SVG" />
   </a>
 </p>
 
-### MISIÓN 70 - Evento Interestelar
+<div align="center">
+  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400" alt="Space Code">
+</div>
+
+<h2 align="center">🌌 Navegando por el Vasto Universo Digital 🌌</h2>
+
 <p align="center">
-  <img src="https://via.placeholder.com/500x250/0a0a2a/00ffff?text=Galaxia+MISION+70" alt="Proyecto MISION 70">
+  <img src="https://img.shields.io/badge/Misión-Explorar%20Nuevas%20Fronteras%20Digitales-blueviolet?style=for-the-badge&logo=rocket&logoColor=white">
 </p>
 
-Un evento cósmico inspirado en la Velada del Año 3, donde las dimensiones digitales y físicas convergen en un espectáculo estelar.
+<h3 align="center">🛸 Tecnologías Interestelares 🛸</h3>
 
 <p align="center">
-  <a href="https://campamento-mision70.vercel.app/">
-    <img src="https://via.placeholder.com/200x50/00ffff/0a0a2a?text=Embárcate+en+la+misión" alt="Embárcate en la misión">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<h3 align="center">🌠 Constelaciones de Proyectos 🌠</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://hijosdeministros.vercel.app/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=percyby2000&repo=HDM&theme=radical" alt="HDM Project"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://campamento-mision70.vercel.app/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=percyby2000&repo=MISION70&theme=radical" alt="MISION70 Project"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">📊 Estadísticas Cósmicas 📊</h3>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=percyby2000&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=percyby2000&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=percyby2000&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="percyby2000" />
+</div>
+
+<h3 align="center">🌍 Bases Estelares 🌍</h3>
+
+<p align="center">
+  <a href="https://github.com/percyby2000">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://gitlab.com/percyby2000">
+    <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  </a>
+  <a href="https://bitbucket.org/percyby2000">
+    <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
   </a>
 </p>
 
-## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="🛸"> Tecnologías Interestelares
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-React-00FFFF?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-Node.js-006400?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</p>
-
-## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="🌍"> Bases Estelares
-
-<p align="center">
-  <img src="https://via.placeholder.com/200x50/0a0a2a/00ffff?text=GitHub+|+Base+Alfa" alt="GitHub">
-  <img src="https://via.placeholder.com/200x50/0a0a2a/00ffff?text=GitLab+|+Estación+Beta" alt="GitLab">
-  <img src="https://via.placeholder.com/200x50/0a0a2a/00ffff?text=Bitbucket+|+Colonia+Gamma" alt="Bitbucket">
-</p>
-
-## <img src="https://via.placeholder.com/30x30/00ffff/00ffff.png" alt="📡"> Contacto Intergaláctico
+<h3 align="center">📡 Contacto Intergaláctico 📡</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enders-cn2000/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/percy.condenunez.7">
-    <img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:percy@cosmiccoder.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/150x150/00ffff/0a0a2a?text=Avatar+Espacial" alt="Avatar Espacial" style="border-radius:50%;">
-  <br>
-  <em>Transmitido por <a href="https://github.com/percyby2000">Percy Con D (percyby2000)</a> - Comandante de la Flota de Código</em>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/0a0a2a/00ffff?text=Explorando+el+cosmos+digital+|+Innovando+en+cada+commit" alt="Footer">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00fff0&height=100&section=footer&fontSize=50" width="100%">
+</div>
