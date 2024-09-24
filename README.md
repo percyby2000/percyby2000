@@ -1,58 +1,162 @@
-<img src="https://www.google.com/imgres?q=amazing%20galaxia&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffotos-premium%2Famazing-nd-calssy-galaxy-images-galacia-papel-pared-espacio-papel-parede-hecho-arte-digital-ia-galaxia_744422-13256.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.es%2Ffotos-premium%2Famazing-nd-calssy-galaxy-images-galacia-papel-pared-espacio-papel-parede-hecho-arte-digital-ia-galaxia_167885471.htm&docid=1RYnTcndz2316M&tbnid=ASjT2CAMwfoyBM&vet=12ahUKEwj9waLPvNqIAxUpLbkGHVrAF34QM3oECGkQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwj9waLPvNqIAxUpLbkGHVrAF34QM3oECGkQAA" alt="Banner Espacial" style="width: 100%;">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Percy Comde Nuñez - Explorador del Código Cósmico</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #f0f0f0;
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #00ffff;
+            text-shadow: 0 0 10px rgba(0,255,255,0.5);
+        }
+        .project {
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .project img {
+            max-width: 100%;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .tech-badge {
+            background: rgba(255,255,255,0.2);
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.9em;
+        }
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 30px;
+        }
+        .contact-links a {
+            color: #00ffff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .avatar {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 0 auto;
+            display: block;
+        }
+        .ascii-art {
+            font-family: monospace;
+            white-space: pre;
+            font-size: 0.7em;
+            line-height: 1.2;
+            text-align: center;
+            color: #00ffff;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="/api/placeholder/800/300" alt="Banner Espacial" style="width: 100%; border-radius: 10px;">
+            <h1>🚀 PERCY COMDE NUÑEZ</h1>
+            <p><em>Explorador del Código Cósmico</em></p>
+            <blockquote>"Navegando por el vasto universo digital, un commit a la vez" 🌌💻</blockquote>
+        </header>
 
-# 🚀 PERCY COMDE NUÑEZ | Explorador del Código Cósmico
+        <section>
+            <h2>🛰️ Transmisión desde la Estación Espacial del Desarrollador</h2>
+            <p>Saludos, terrícolas del código. Soy Percy, un desarrollador que orbita en los confines del espacio digital, creando soluciones tan brillantes como las estrellas y tan vastas como las galaxias. Mi misión: explorar nuevas fronteras en programación y diseño, llevando la innovación hasta los límites del universo conocido.</p>
+        </section>
 
-> "Navegando por el vasto universo digital, un commit a la vez" 🌌💻
+        <section>
+            <h2>🌠 Constelaciones de Proyectos</h2>
+            
+            <div class="project">
+                <h3>HDM - Hijos de Ministros Ayacucho</h3>
+                <img src="/api/placeholder/500/250?text=Nebulosa+HDM" alt="Proyecto HDM">
+                <p>Una nebulosa digital que brilla con:</p>
+                <ul>
+                    <li>💬 Señales de WhatsApp</li>
+                    <li>🎵 Ondas sonoras de Spotify</li>
+                    <li>🎥 Transmisiones de YouTube</li>
+                    <li>📱 Comunicaciones From App</li>
+                </ul>
+                <a href="https://hijosdeministros.vercel.app/" target="_blank">🔗 Viaja a HDM</a>
+            </div>
 
-## 🛰️ Transmisión desde la Estación Espacial del Desarrollador
+            <div class="project">
+                <h3>MISIÓN 70 - Evento Interestelar</h3>
+                <img src="/api/placeholder/500/250?text=Galaxia+MISION+70" alt="Proyecto MISION 70">
+                <p>Un evento cósmico inspirado en la Velada del Año 3, donde las dimensiones digitales y físicas convergen en un espectáculo estelar.</p>
+                <a href="https://campamento-mision70.vercel.app/" target="_blank">🔗 Embárcate en la misión</a>
+            </div>
+        </section>
 
-Saludos, terrícolas del código. Soy Percy, un desarrollador que orbita en los confines del espacio digital, creando soluciones tan brillantes como las estrellas y tan vastas como las galaxias. Mi misión: explorar nuevas fronteras en programación y diseño, llevando la innovación hasta los límites del universo conocido.
+        <section>
+            <h2>🛸 Tecnologías Interestelares</h2>
+            <div class="tech-stack">
+                <span class="tech-badge">JavaScript</span>
+                <span class="tech-badge">Python</span>
+                <span class="tech-badge">React</span>
+                <span class="tech-badge">Node.js</span>
+                <span class="tech-badge">HTML5</span>
+                <span class="tech-badge">CSS3</span>
+                <span class="tech-badge">Git</span>
+                <span class="tech-badge">MongoDB</span>
+            </div>
+        </section>
 
-## 🌠 Constelaciones de Proyectos
+        <section>
+            <h2>🌍 Bases Estelares</h2>
+            <ul>
+                <li>GitHub | Base Alfa</li>
+                <li>GitLab | Estación Beta</li>
+                <li>Bitbucket | Colonia Gamma</li>
+            </ul>
+        </section>
 
-### HDM - Hijos de Ministros Ayacucho
-<img src="https://via.placeholder.com/500x250?text=Nebulosa+HDM" alt="Proyecto HDM" style="width: 100%;">
+        <section>
+            <h2>📡 Contacto Intergaláctico</h2>
+            <div class="contact-links">
+                <a href="https://www.linkedin.com/in/enders-cn2000/" target="_blank">LinkedIn</a>
+                <a href="https://www.facebook.com/percy.condenunez.7" target="_blank">Facebook</a>
+                <a href="mailto:percy@cosmiccoder.com">Email</a>
+            </div>
+        </section>
 
-Una nebulosa digital que brilla con:
-- 💬 Señales de WhatsApp
-- 🎵 Ondas sonoras de Spotify
-- 🎥 Transmisiones de YouTube
-- 📱 Comunicaciones From App
+        <footer>
+            <img src="/api/placeholder/150/150?text=Avatar+Espacial" alt="Avatar Espacial" class="avatar">
+            <p><em>Transmitido por <a href="https://github.com/percyby2000" target="_blank">Percy Con D (percyby2000)</a> - Comandante de la Flota de Código</em></p>
+        </footer>
 
-[🔗 Viaja a HDM](https://hijosdeministros.vercel.app/)
-
-### MISIÓN 70 - Evento Interestelar
-<img src="https://via.placeholder.com/500x250?text=Galaxia+MISION+70" alt="Proyecto MISION 70" style="width: 100%;">
-
-Un evento cósmico inspirado en la Velada del Año 3, donde las dimensiones digitales y físicas convergen en un espectáculo estelar.
-
-[🔗 Embárcate en la misión](https://campamento-mision70.vercel.app/)
-
-## 🛸 Tecnologías Interestelares
-
-<img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-React-00FFFF?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/-Node.js-006400?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-
-## 🌍 Bases Estelares
-
-- GitHub | Base Alfa
-- GitLab | Estación Beta
-- Bitbucket | Colonia Gamma
-
-## 📡 Contacto Intergaláctico
-
-<a href="https://www.linkedin.com/in/enders-cn2000/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.facebook.com/percy.condenunez.7"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-
----
-
-<p align="center">
-  <img src="https://via.placeholder.com/150x150?text=Avatar+Espacial" alt="Avatar Espacial" style="border-radius:50%;">
-  <br>
-  <em>Transmitido por <a href="https://github.com/percyby2000">Percy Con D (percyby2000)</a> - Comandante de la Flota de Código</em>
-</p>
-
-```ascii
-       .  　　　　　　   ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
+        <div class="ascii-art">
+  .  　　　　　　   ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
  　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
 .　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　　　.　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　       　   　　　　 　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　       　    ✦ 　   　　　,　　　　　　　　　　　    🚀 　　　　 　　,　　　 ‍ ‍ ‍ ‍ 　 　　　　　　　　　　　　.　　　　　 　　 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　　　　　.　　　  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　* 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　　　　　　 　　　　　.　　　　　　　　　　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　　　 🌑 　　　　　   　　　　　.　　　　　　　　　　　.　　　　　　　　　　   　
 ˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
-```
+        </div>
+    </div>
+</body>
+</html>
