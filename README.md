@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:8A2BE2&height=200&section=header&text=Percy%20Comde%20Nuñez&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Explorador%20del%20Código%20Cósmico&descAlignY=50">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:8A2BE2&height=200&section=header&text=Percy%20Conde%20Nuñez&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Explorador%20del%20Código%20Cósmico&descAlignY=50">
 </div>
 
 <p align="center">
